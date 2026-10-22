@@ -97,7 +97,6 @@ Materi yang telah saya pelajari mencakup:
 | Data Quality | Validasi data dan Slowly Changing Dimension (SCD) |
 | Database | SQL, NoSQL, MongoDB, dan pengenalan HBase |
 | Big Data | Hadoop, HDFS, MapReduce, Hive, dan Spark |
-| Cloud | Dasar layanan data AWS dan Google Cloud Platform |
 | Scheduling | Linux Crontab dan Apache Airflow |
 | Data Processing | ETL, ELT, dan pemrosesan data menggunakan Spark |
 
