@@ -1,61 +1,127 @@
-# Hi, I'm Revana Sanreigo Putra 👋
+# 👋 Halo, Saya Revana Sanreigo Putra!
 
-### Aspiring Data Engineer | Full Stack Developer
+### 🎯 Aspiring Data Engineer | Full Stack Developer
 
-I'm a Diploma III Informatics Engineering graduate from
-Politeknik Negeri Indramayu with a GPA of 3.94.
+Lulusan **D3 Teknik Informatika – Politeknik Negeri Indramayu** dengan IPK **3,94**.
 
-I enjoy building data pipelines, designing data warehouses,
-and developing web applications. I'm continuously improving
-my skills through hands-on projects and practical learning.
+Saya tertarik pada bidang **Data Engineering dan pengembangan aplikasi web**. Saya senang mempelajari bagaimana data dikumpulkan, diproses, disimpan, dan diolah menjadi informasi yang berguna untuk mendukung pengambilan keputusan.
 
-### 🛠️ Tech Stack
+Saat ini, saya terus mengembangkan kemampuan melalui pembelajaran mandiri dan proyek praktik, mulai dari membangun ETL pipeline dan data warehouse hingga mengembangkan aplikasi berbasis web dan API.
 
-**Data Engineering**
-- SQL, Python
-- MySQL, PostgreSQL
-- Pentaho Data Integration (PDI)
-- Data Warehouse, ETL
-- Apache Airflow, Apache Kafka
+---
 
-**Web Development**
+## 🧰 Skills & Technologies
+
+### 📊 Data Engineering & Data Warehouse
+
+- **Programming & Query:** Python, SQL
+- **Database:** MySQL, PostgreSQL
+- **ETL & Data Integration:** Pentaho Data Integration (PDI), ETL/ELT
+- **Data Modeling:** Relational Database, Star Schema, Fact & Dimension Tables, Slowly Changing Dimension (SCD)
+- **Data Pipeline & Scheduling:** Apache Airflow, Apache Kafka
+- **Big Data:** Konsep Hadoop, HDFS, MapReduce, Hive, HBase, dan Spark
+- **Data Visualization:** Microsoft Power BI, Streamlit
+
+### 💻 Web Development
+
 - PHP, Laravel
 - JavaScript, HTML, CSS
 - REST API
+- MySQL Database Integration
 
-**Machine Learning**
+### 🤖 Machine Learning
+
+- Python & Data Preprocessing
 - PyTorch
-- Flask
-- Data Preprocessing
+- Flask REST API
+- Self-Supervised Contrastive Learning
 
-### 🚀 Featured Projects
+---
 
-**1. Olist E-Commerce Data Warehouse**
-An ETL and data warehousing project using Pentaho PDI,
-MySQL, and Power BI.
+## 🚀 Featured Projects
 
-[View Repository](https://github.com/revansanreigoputra/olist-ecommerce-data-warehouse)
+### 1. 🛒 Olist E-Commerce Data Warehouse & BI Dashboard
 
-**2. MarketPulse**
-A financial market data pipeline using Python,
-Apache Airflow, and PostgreSQL.
+Proyek Data Engineering dan Business Intelligence menggunakan dataset Brazilian E-Commerce Public Dataset by Olist.
 
-[View Repository](https://github.com/revansanreigoputra/marketpulse)
+**Yang dikerjakan:**
+- Membangun proses ETL menggunakan Pentaho Data Integration.
+- Merancang data warehouse menggunakan MySQL dengan pendekatan Star Schema.
+- Mengolah dan memvalidasi data menggunakan SQL.
+- Membuat dashboard analitik menggunakan Microsoft Power BI.
 
-**3. Real-Time E-Commerce Pipeline**
-A real-time data pipeline project using Python,
-Apache Kafka, PostgreSQL, and Streamlit.
+**Tech Stack:** `Pentaho PDI` `MySQL` `SQL` `Power BI`
 
-[View Repository](https://github.com/revansanreigoputra/realtime-ecommerce-pipeline)
+🔗 [Lihat Repository](https://github.com/revansanreigoputra/olist-ecommerce-data-warehouse)
 
-### 🎯 Currently Learning
+### 2. 📈 MarketPulse — Financial Market Data Pipeline
 
-- Data Engineering and Data Warehousing
-- ETL Pipeline Development
-- SQL and Python for Data Processing
-- Full Stack Web Development
+Proyek pipeline data pasar keuangan menggunakan Python, Apache Airflow, dan PostgreSQL untuk mempelajari proses pengelolaan data serta penjadwalan pipeline.
 
-### 📫 Connect With Me
+**Tech Stack:** `Python` `Apache Airflow` `PostgreSQL`
 
-- LinkedIn: https://www.linkedin.com/in/revana-sanreigo/
-- GitHub: https://github.com/revansanreigoputra
+🔗 [Lihat Repository](https://github.com/revansanreigoputra/marketpulse)
+
+### 3. ⚡ Real-Time E-Commerce Data Pipeline
+
+Proyek pipeline data e-commerce yang berfokus pada pemrosesan aliran data menggunakan Apache Kafka, Python, dan PostgreSQL, dengan Streamlit sebagai antarmuka visualisasi.
+
+**Tech Stack:** `Python` `Apache Kafka` `PostgreSQL` `Streamlit`
+
+🔗 [Lihat Repository](https://github.com/revansanreigoputra/realtime-ecommerce-pipeline)
+
+### 4. 🛡️ Network Security & Malware Detection
+
+Proyek tugas akhir berupa aplikasi keamanan jaringan untuk mendeteksi dan mengklasifikasikan trafik jaringan menggunakan pendekatan Self-Supervised Contrastive Learning dengan metode SCARF.
+
+**Yang dikerjakan:**
+- Melakukan preprocessing data trafik jaringan.
+- Mengembangkan model klasifikasi menggunakan PyTorch.
+- Mengintegrasikan model melalui Flask REST API dengan aplikasi web Laravel.
+
+**Tech Stack:** `Python` `PyTorch` `Flask` `Laravel` `SQL`
+
+🔗 [Lihat Dashboard Repository](https://github.com/revansanreigoputra/netsec-dashboard)
+
+---
+
+## 📚 Data Engineering Learning Journey
+
+Materi yang telah saya pelajari mencakup:
+
+| Bidang | Materi |
+|---|---|
+| Fundamentals | Peran Data Engineer dan alur pengolahan data |
+| Data Warehouse | Arsitektur, keamanan, dan pengelolaan data warehouse |
+| Data Modeling | Normalisasi, denormalisasi, Star Schema, dan dimensional modeling |
+| Data Quality | Validasi data dan Slowly Changing Dimension (SCD) |
+| Database | SQL, NoSQL, MongoDB, dan pengenalan HBase |
+| Big Data | Hadoop, HDFS, MapReduce, Hive, dan Spark |
+| Cloud | Dasar layanan data AWS dan Google Cloud Platform |
+| Scheduling | Linux Crontab dan Apache Airflow |
+| Data Processing | ETL, ELT, dan pemrosesan data menggunakan Spark |
+
+Saya berusaha menghubungkan materi yang dipelajari dengan praktik proyek agar dapat memahami bukan hanya konsepnya, tetapi juga bagaimana teknologi tersebut digunakan dalam alur kerja pengolahan data.
+
+---
+
+## 🎯 Current Focus
+
+- Memperkuat kemampuan SQL dan Python untuk pengolahan data.
+- Mengembangkan ETL pipeline yang terstruktur dan dapat dipelihara.
+- Memperdalam data warehouse, dimensional modeling, dan data quality.
+- Meningkatkan pemahaman tentang orkestrasi pipeline dan teknologi big data.
+- Mengembangkan proyek portofolio Data Engineering secara bertahap.
+
+---
+
+## 🤝 Let's Connect!
+
+Saya terbuka untuk belajar, berkolaborasi, dan mendapatkan kesempatan berkarier di bidang Data Engineering maupun pengembangan aplikasi.
+
+- 💼 **LinkedIn:** [Revana Sanreigo Putra](https://www.linkedin.com/in/revana-sanreigo/)
+- 🐙 **GitHub:** [revansanreigoputra](https://github.com/revansanreigoputra)
+
+---
+
+*Terus belajar, terus membangun, dan terus berkembang melalui proyek nyata.* 🚀
