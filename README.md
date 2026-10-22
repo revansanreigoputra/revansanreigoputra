@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Revana Sanreigo Putra 👋
 
-<!--
-**revansanreigoputra/revansanreigoputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Diploma III Informatics Engineering graduate from
+Politeknik Negeri Indramayu with a GPA of 3.94.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building data pipelines, designing data warehouses,
+and developing web applications. I'm continuously improving
+my skills through hands-on projects and practical learning.
+
+### 🛠️ Tech Stack
+
+**Data Engineering**
+- SQL, Python
+- MySQL, PostgreSQL
+- Pentaho Data Integration (PDI)
+- Data Warehouse, ETL
+- Apache Airflow, Apache Kafka
+
+**Web Development**
+- PHP, Laravel
+- JavaScript, HTML, CSS
+- REST API
+
+**Machine Learning**
+- PyTorch
+- Flask
+- Data Preprocessing
+
+### 🚀 Featured Projects
+
+**1. Olist E-Commerce Data Warehouse**
+An ETL and data warehousing project using Pentaho PDI,
+MySQL, and Power BI.
+
+[View Repository](https://github.com/revansanreigoputra/olist-ecommerce-data-warehouse)
+
+**2. MarketPulse**
+A financial market data pipeline using Python,
+Apache Airflow, and PostgreSQL.
+
+[View Repository](https://github.com/revansanreigoputra/marketpulse)
+
+**3. Real-Time E-Commerce Pipeline**
+A real-time data pipeline project using Python,
+Apache Kafka, PostgreSQL, and Streamlit.
+
+[View Repository](https://github.com/revansanreigoputra/realtime-ecommerce-pipeline)
+
+### 🎯 Currently Learning
+
+- Data Engineering and Data Warehousing
+- ETL Pipeline Development
+- SQL and Python for Data Processing
+- Full Stack Web Development
+
+### 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/revana-sanreigo/
+- GitHub: https://github.com/revansanreigoputra
