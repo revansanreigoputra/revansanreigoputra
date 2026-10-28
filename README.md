@@ -120,7 +120,7 @@ Saya tertarik untuk mengembangkan kemampuan di bidang Data Engineering dan Softw
 
 - 💼 **LinkedIn:** [Revana Sanreigo Putra](https://www.linkedin.com/in/revana-sanreigo/)
 - 🐙 **GitHub:** [revansanreigoputra](https://github.com/revansanreigoputra)
-- 🌐 Portfolio: portfolio-revana.vercel.app
+- 🌐 **Portfolio:** [Revana Sanreigo Putra Portofolio](https://portfolio-revana.vercel.app/en)
 
 ---
 
