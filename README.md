@@ -116,10 +116,11 @@ Saya berusaha menghubungkan materi yang dipelajari dengan praktik proyek agar da
 
 ## 🤝 Let's Connect!
 
-Saya terbuka untuk belajar, berkolaborasi, dan mendapatkan kesempatan berkarier di bidang Data Engineering maupun pengembangan aplikasi.
+Saya tertarik untuk mengembangkan kemampuan di bidang Data Engineering dan Software Development, khususnya dalam membangun data pipeline, mengolah data, serta mengembangkan aplikasi. Saya terbuka untuk terus belajar, berkolaborasi dalam proyek, dan mendapatkan kesempatan berkarier untuk mengembangkan kemampuan serta memberikan kontribusi nyata.
 
 - 💼 **LinkedIn:** [Revana Sanreigo Putra](https://www.linkedin.com/in/revana-sanreigo/)
 - 🐙 **GitHub:** [revansanreigoputra](https://github.com/revansanreigoputra)
+- 🌐 Portfolio: portfolio-revana.vercel.app
 
 ---
 
